@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_error">Password error!</string>
+    <string name="successfully">Hello!</string>
+    <string name="user_not_exist">User not exist!</string>
+    <string name="username_used">Username had exist!</string>
+    <string name="register_successfully">Register successfully!</string>
+    <string name="unknow_error">Unknow error!</string>
+</resources>
